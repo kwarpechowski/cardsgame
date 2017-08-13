@@ -1,4 +1,4 @@
-## category 1
+## category 1 a
 * pos 1
 * pos 2
 ## category 2
