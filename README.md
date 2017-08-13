@@ -1,4 +1,4 @@
-## category 1 a
+## Ludzie
 * pos 1
 * pos 2
 ## category 2
